@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 16.1 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="3.58in" height="2.60in" viewBox="0 0 2574 1872" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - Graph</desc>
+	<rect x="0" y="0" width="2574" height="1872" style="fill:#F0F0F0;stroke:none"/>
+	<rect x="0.00" y="0.00" width="2573.92" height="1872.00" style="fill:#F0F0F0"/>
+	<rect x="1.87" y="1.87" width="2570.18" height="1868.26" style="fill:none;stroke:#F0F0F0;stroke-width:3.74"/>
+	<rect x="254.02" y="65.56" width="2254.34" height="1636.95" style="fill:#FFFFFF"/>
+	<rect x="255.89" y="67.43" width="2250.60" height="1633.21" style="fill:none;stroke:#FFFFFF;stroke-width:3.74"/>
+	<line x1="254.02" y1="1702.51" x2="2508.36" y2="1702.51" style="stroke:#E8E8E8;stroke-width:5.62"/>
+	<line x1="254.02" y1="1210.22" x2="2508.36" y2="1210.22" style="stroke:#E8E8E8;stroke-width:5.62"/>
+	<line x1="254.02" y1="718.01" x2="2508.36" y2="718.01" style="stroke:#E8E8E8;stroke-width:5.62"/>
+	<line x1="254.02" y1="225.71" x2="2508.36" y2="225.71" style="stroke:#E8E8E8;stroke-width:5.62"/>
+	<rect x="457.85" y="207.86" width="691.68" height="1494.66" style="fill:#606060"/>
+	<rect x="459.72" y="209.73" width="687.94" height="1490.91" style="fill:none;stroke:#606060;stroke-width:3.74"/>
+	<rect x="1612.93" y="131.04" width="691.60" height="1571.48" style="fill:#606060"/>
+	<rect x="1614.80" y="132.91" width="687.86" height="1567.73" style="fill:none;stroke:#606060;stroke-width:3.74"/>
+	<line x1="254.02" y1="1702.51" x2="254.02" y2="65.56" style="stroke:#000000;stroke-width:3.74"/>
+	<line x1="254.02" y1="1702.51" x2="228.04" y2="1702.51" style="stroke:#000000;stroke-width:3.74"/>
+	<text x="195.47" y="1702.51" style="font-family:'Helvetica';font-size:64.99px;fill:#000000" transform="rotate(-90 195.47,1702.51)" text-anchor="middle">0</text>
+	<line x1="254.02" y1="1210.22" x2="228.04" y2="1210.22" style="stroke:#000000;stroke-width:3.74"/>
+	<text x="195.47" y="1210.22" style="font-family:'Helvetica';font-size:64.99px;fill:#000000" transform="rotate(-90 195.47,1210.22)" text-anchor="middle">2,000</text>
+	<line x1="254.02" y1="718.01" x2="228.04" y2="718.01" style="stroke:#000000;stroke-width:3.74"/>
+	<text x="195.47" y="718.01" style="font-family:'Helvetica';font-size:64.99px;fill:#000000" transform="rotate(-90 195.47,718.01)" text-anchor="middle">4,000</text>
+	<line x1="254.02" y1="225.71" x2="228.04" y2="225.71" style="stroke:#000000;stroke-width:3.74"/>
+	<text x="195.47" y="225.71" style="font-family:'Helvetica';font-size:64.99px;fill:#000000" transform="rotate(-90 195.47,225.71)" text-anchor="middle">6,000</text>
+	<text x="123.96" y="884.04" style="font-family:'Helvetica';font-size:64.99px;fill:#000000" transform="rotate(-90 123.96,884.04)" text-anchor="middle">mean of price</text>
+	<line x1="254.02" y1="1702.51" x2="2508.36" y2="1702.51" style="stroke:#000000;stroke-width:3.74"/>
+	<text x="803.65" y="1773.95" style="font-family:'Helvetica';font-size:64.99px;fill:#000000" text-anchor="middle">Domestic</text>
+	<text x="1958.73" y="1773.95" style="font-family:'Helvetica';font-size:64.99px;fill:#000000" text-anchor="middle">Foreign</text>
+</svg>
